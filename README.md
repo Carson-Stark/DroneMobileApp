@@ -3,6 +3,10 @@
 
 This is a fork of this [MavSDK example app](https://github.com/mavlink/MAVSDK-Swift-Example) that has been modified to support custom mission commands and TCP communication. The app allows users to send specific commands to a drone or connected system via a TCP client, enhancing the functionality of the original MAVSDK example. Built specifically for [this autonomous drone project](https://github.com/Carson-Stark/AutonomousDrone).
 
+<img width="2554" height="1171" alt="Screenshot 2025-07-13 185621" src="https://github.com/user-attachments/assets/c3a5685d-67d7-4020-9765-57f3eadccd07" />
+
+<img width="2532" height="1154" alt="Screenshot 2025-07-13 185557" src="https://github.com/user-attachments/assets/c692914b-81fc-482e-997c-8601b22d83a8" />
+
 ## Custom Modifications
 
 ### TCP Communication Integration
